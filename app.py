@@ -16,7 +16,7 @@ with open('finalized_model.pkl', 'rb') as f:
 
 st.title('Sentimant Analysis on Product Reviews')
 
-st.markdown('Welcome to our project in Sentimant Analysis, this project focuses on analyzing and predicting the reviews of the products, كمل مع احمد')
+st.markdown('Welcome to our project in Sentimant Analysis, this project focuses on analyzing and predicting the reviews of the books from the "Al-Shaikh Book Store".')
 
 st.markdown('Please enter a review so the model can predict a rating!')
 # inputing a string to predict
